@@ -14,6 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-A software engineer with over 2 years of experience working with teams
+<h1 align="center">Welcome to ElieKwizera 👋</h1>
+<p>
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+  <a href="https://twitter.com/ElieKwizer" target="_blank">
+    <img alt="Twitter: ElieKwizer" src="https://img.shields.io/twitter/follow/ElieKwizer.svg?style=social" />
+  </a>
+</p>
+
+> A software engineer with over 2 years of experience working with teams
 to design and develop secure and robust softwares. Proficient in software
 development using C#, Python and Javascript.
+
+## Author
+
+👤 **Elie Kwizera**
+
+* Twitter: [@ElieKwizer](https://twitter.com/ElieKwizer)
+* Github: [@ElieKwizera](https://github.com/ElieKwizera)
+* LinkedIn: [@Elie Kwizera](https://www.linkedin.com/in/elie-kwizera-292293179/)
+
+## Thanks for checking out!!
+
+       
