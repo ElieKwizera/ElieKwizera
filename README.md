@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings!, I am Elie Kwizera 👋
 
 <!--
 **ElieKwizera/ElieKwizera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+A software engineer with over 2 years of experience working with teams
+to design and develop secure and robust softwares. Proficient in software
+development using C#, Python and Javascript.
