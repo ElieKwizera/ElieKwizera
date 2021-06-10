@@ -1,5 +1,3 @@
-### Greetings!, I am Elie Kwizera 👋
-
 <!--
 **ElieKwizera/ElieKwizera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Welcome to ElieKwizera 👋</h1>
+<h1 align="center">Greetings, I am  Elie Kwizera 👋</h1>
 <p>
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
@@ -28,7 +26,7 @@ Here are some ideas to get you started:
 to design and develop secure and robust softwares. Proficient in software
 development using C#, Python and Javascript.
 
-## Author
+## Please follow me on social media
 
 👤 **Elie Kwizera**
 
