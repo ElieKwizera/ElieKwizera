@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 > A software engineer with over 2 years of experience working with teams
 to design and develop secure and robust softwares. Proficient in software
-development using C#, Python and Javascript.
+development using C#,PHP, Python and Javascript.
 
 ## Please follow me on social media
 
