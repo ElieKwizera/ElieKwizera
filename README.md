@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Ethereum
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-> A software engineer with over 2 years of experience working with teams
+> A software engineer with over 3 years of experience working with teams
 to design and develop secure and robust softwares. Proficient in software
 development using C#,PHP, Python and Javascript.
 
