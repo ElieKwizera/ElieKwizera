@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 to design and develop secure and robust softwares. Proficient in software
 development using C#, PHP, Python and Javascript.
 >
-[![GitHub Streak](https://streak-stats.demolab.com?user=ElieKwizera)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ElieKwizera&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## Please follow me on social media
 
