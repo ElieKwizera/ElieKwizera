@@ -22,9 +22,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-### A software engineer with over 4 years of experience working with teams
-### to design and develop secure and robust softwares. Proficient in software
-### development using C#, PHP, Python and Javascript.
+A software engineer with over 4 years of experience working with teams to design and develop secure and robust softwares. Proficient in software development using C#, PHP, Python and Javascript.
 
 
 
