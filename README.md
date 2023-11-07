@@ -22,11 +22,11 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-> A software engineer with over 4 years of experience working with teams
-to design and develop secure and robust softwares. Proficient in software
-development using C#, PHP, Python and Javascript.
->
-[![GitHub Streak](https://streak-stats.demolab.com?user=ElieKwizera&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+### A software engineer with over 4 years of experience working with teams
+### to design and develop secure and robust softwares. Proficient in software
+### development using C#, PHP, Python and Javascript.
+
+
 
 ## Please follow me on social media
 
@@ -36,6 +36,8 @@ development using C#, PHP, Python and Javascript.
 * Github: [@ElieKwizera](https://github.com/ElieKwizera)
 * LinkedIn: [@Elie Kwizera](https://www.linkedin.com/in/elie-kwizera-292293179/)
 
-## Thanks for checking out!!
+## Thanks !!
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ElieKwizera&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
        
